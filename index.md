@@ -2,11 +2,12 @@
 
 I was introduced to programming because of a ***buring desire*** to make video games. 
 
-> I was not able to make any video games because I was not very good at art.
-> After speaking to people at UCSD I found this meme to be very accurate.
-![Got this image from Reddit](https://preview.redd.it/1pxgsysejuu81.gif?format=mp4&s=e482610240b1bf32bd273dc7733e0551716737a0)
+I was not able to make any video games because I was not very good at art. After speaking to other students at UCSD I found [this](https://www.reddit.com/r/ProgrammerHumor/comments/u8j3lf/i_need_an_artist_friend/) meme to be very accurate.
 
-Here is a random quote I found on the internet
+This is how smart people solve memory leaks.
+![Got this image from Reddit](https://i.redd.it/zyawehyvd5r91.jpg)
+
+Here is a random quote I found on the internet 
 > Opportunities don't happen, you create them
 
 I like interesting and clever solutions to problems.
@@ -49,5 +50,5 @@ Here is a task list of things I plan to do this quarter
 
 Here is a [link](/README.md) to an other md file from master.
 
-Thank oyu fro reading all this.
-Here is a link to go back [up] (# Welcome to Janav's page)
+Thank you for reading all this.
+Here is a link to go back [up] (#welcome-to-janavs-page)
