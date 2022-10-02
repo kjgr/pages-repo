@@ -39,6 +39,8 @@ Here is an unordered list of the new graphics cards launching soon.
 - Nvidia RTX 4080 (16GB)
 - Nvidia RTX ~~4070~~ 4080 (12 GB)
 
+Here is a link to go back [up] (#welcome-to-janavs-page).
+
 Here is a ordered list of my favourite games
 1. Witcher 3
 2. Cuphead
@@ -52,6 +54,6 @@ Here is a task list of things I plan to do this quarter
 Here is a [link](/README.md) to an other md file from master.
 
 Thank you for reading.
-Here is a link to go back [up] (#welcome-to-janavs-page)
+
 
 
