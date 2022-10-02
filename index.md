@@ -52,4 +52,4 @@ Here is a task list of things I plan to do this quarter
 Here is a [link](/README.md) to an other md file from master.
 
 Thank you for reading.
-Here is a link to go back [up] (#welcome-to-janavs-page)
+Here is a link to go back [up] (#some-lists)
